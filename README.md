@@ -13,5 +13,5 @@
 
 
 CAL
-j
+jurado
 
