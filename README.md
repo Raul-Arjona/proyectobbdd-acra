@@ -1,17 +1,4 @@
 # proyectobbdd-acra
-
-
-
-
-
-
-
-
-
-
-
-
-
-CAL
-jurado
-
+ggggggggggggggg
+enemsima prueba
+5555555
